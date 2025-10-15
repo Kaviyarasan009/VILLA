@@ -72,7 +72,7 @@ body {
 }
 
 .nav-menu {
-    display: grid;
+    display: flex;
     list-style: none;
     gap: 35px;
 }
