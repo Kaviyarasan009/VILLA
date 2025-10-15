@@ -129,7 +129,7 @@ body {
 
 .badge {
     background: #f35525;
-    color: #fff;
+    color: hsl(0, 0%, 4%);
     padding: 8px 18px;
     border-radius: 18px;
     font-size: 20px;
